@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-11T12:00:03 IST" name="Suite" finished-at="2023-07-11T12:00:07 IST" duration-ms="3981">
+    <groups>
+    </groups>
+    <test started-at="2023-07-11T12:00:03 IST" name="Test" finished-at="2023-07-11T12:00:07 IST" duration-ms="3981">
+      <class name="Server_Jenkins_Maven.Print_String">
+        <test-method signature="mytest()[pri:0, instance:Server_Jenkins_Maven.Print_String@78aab498]" started-at="2023-07-11T12:00:03 IST" name="mytest" finished-at="2023-07-11T12:00:07 IST" duration-ms="3922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytest -->
+      </class> <!-- Server_Jenkins_Maven.Print_String -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
